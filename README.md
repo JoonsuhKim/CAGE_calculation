@@ -70,7 +70,7 @@ streamlit run src/main.py
 ## 추가 디테일
 
 데이터출처: 
-\ndatabank.worldbank.org    (인구수, 총생산)
+databank.worldbank.org    (인구수, 총생산)
 sea-distances.org         (지리적 거리 측정)
 thetruesize.com           (지리적 규모 측정)
 stan database for structural analysis, 2025 edition (산업 총생산, 부가가치)
